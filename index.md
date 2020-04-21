@@ -11,13 +11,59 @@ WaterFlow
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+Security Box
 
-*Insert URL to project*
+https://make.techwillsaveus.com/microbit/activities/security-box
 
-![Image](missingimage.png)
+![Image](rp1.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to the project that I am creating because it sets off an alarm. This is a feature that is being utilised in my project.  The alarm in this project is used to alert the owner when someone has opened the box, whereas the alarm in my project is being used to alert the user when it is time to have another drink. 
+
+### Related project 2 ###
+Countdown Timer
+
+https://makecode.microbit.org/projects/watch/timer
+
+![Image](rp2.png)
+
+This project is related to the project that I am creating because it involves a timer that countdown. In my project, the timer will reactivate every 5 minutes, this will then trigger an output that tells the user it is time to drink once again. 
+
+### Related project 3 ###
+Making a Room Alarm With Your Micro: bit
+
+https://www.youtube.com/watch?v=igeUhVMqVRw
+
+![Image](rp3.png)
+
+This project is related to the project that I am creating because it once again is an alarm. This is a factor that is going to be used in this project. However, this alarm is activated when it is trigger, acting as a security system, whereas my project has an alarm that goes off after a certain time rather than when it is triggered.
+
+
+### Related project 4 ###
+Micro: bit Name Tag
+
+https://www.seeedstudio.com/blog/2019/12/10/top-25-microbit-projects-for-beginners-2019/
+
+![Image](rp4.png)
+
+This project is related to the project that I am creating because it displays a string of text on the micro: bit LED screen. My project will display the words “drink water” when the timer is up. 
+
+### Related project 5 ###
+Reading Temperature Using Micro: bit
+
+https://www.seeedstudio.com/blog/2019/12/10/top-25-microbit-projects-for-beginners-2019/
+
+![Image](rp5.png)
+
+This project is related to the project that I am creating because it uses a motor to control the temperature gauge. I will be using a motor in my project to turn the platform that the water bottle sits on. 
+
+### Related project 6 ###
+Micro: bit Egg Timer
+
+https://www.myminifactory.com/object/3d-print-micro-bit-egg-timer-18361
+
+![Image](rp6.png)
+
+This project is related to the project that I am creating because it is a timer. In my project, I will be using an automatic countdown timer to indicate when the outputs go off. This project lets the individual once the egg has finished cooking using an automatic timer. 
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
