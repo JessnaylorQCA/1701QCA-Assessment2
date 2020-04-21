@@ -82,7 +82,6 @@ In the past, I have had issues attempting to get the micro: bit to work. This we
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
 In today's society, it is extremely common for people to forget to remain hydrated due to their busy schedule. This project will remind users when they need to drink water to ensure that they remain hydrated and healthy throughout the day. 
 
 ### Design concept 1 ###
