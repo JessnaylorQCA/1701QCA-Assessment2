@@ -66,11 +66,22 @@ https://www.myminifactory.com/object/3d-print-micro-bit-egg-timer-18361
 This project is related to the project that I am creating because it is a timer. In my project, I will be using an automatic countdown timer to indicate when the outputs go off. This project lets the individual once the egg has finished cooking using an automatic timer. 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
 ### *Brief resource name/description* ###
+https://makecode.microbit.org/device/servo
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+As I have not tested the motor yet, I am unsure as to whether I will need to use a mini servo instead in my project to assist with the turning of the water bottles platform. This site explains how to equip the servo with “crocodile clips” that have been created from male strips. 
+
+https://makecode.microbit.org/v0/86038-41904-40055-73164
+
+The following source shows the code required for an alarm to play. This can be beneficial when creating the code for this project as it assists in creating alarm reminding the user to drink water. 
+
+https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
+
+This source explains how to use the BBC Micro: bit to control the servo. This is important as it will assist me in getting the servo to work effectively and spin the platform at the correct speed. 
+
+https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit
+
+In the past, I have had issues attempting to get the micro: bit to work. This website gives me a step by step guide as to how to get the micro: bit working again if the issues reoccur. This is extremely beneficial as it can endure that I do not waste time trying to fix the micro: bit on my own. 
 
 ## Conceptual progress ##
 
