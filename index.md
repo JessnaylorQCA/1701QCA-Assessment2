@@ -1,7 +1,7 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
 ## Project working Title ##
-WaterFlow
+WaterFlow - Reminder to keep hydrated
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -99,22 +99,21 @@ In today's society, it is extremely common for people to forget to remain hydrat
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
 ![Image](pe5.png)
 
+This was the first rough sketch of the main idea. In this sketch, i wrote in a step by step process, how the project owuld work and what the outputs would be/how they would be acheived. I also wrote out the base materials that I assumed would have been required at the time. 
+
 ![Image](pe4.png)
+This was a more thorough materials list that I wrote once I had chosen the project that I was going to create. This gave me an idea as to what I would need for both the prototype and the final project. It is still yet to be expanded. 
 
 ![Image](pe1.png)
+This is the prototype of the project that I am going to create. This was built using carboard as it was only a rough outline of how I wanted the final project to look. Creating this prototype allowed for me to correctly find out the measurments of the project so that when I am making the final project, I successfully use the correct measurements to ensure that everything fits perfectly. 
 
 ![Image](pe2.png)
+This is part of the code that I have been testing. Rather than doing all of the code at once, I decided to break it down so that I could ensure that each section of my code is correct. This is the code that I was working on for the alarm rhat is going to play. In this code I worked on finding the correct melody that I wanted to play to alert the users. 
 
 ![Image](pe3.png)
+This was the part of the code to control the mini servo. It still needs to be modified and added to, but I was focusing on getting a base for this code down so that I could unerstand how and if it works before I move forward. 
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
