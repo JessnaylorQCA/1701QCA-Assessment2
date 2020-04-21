@@ -108,6 +108,14 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](missingimage.png)
 
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
+![Image](missingimage.png)
+
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
