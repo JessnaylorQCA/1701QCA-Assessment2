@@ -119,4 +119,10 @@ This was the part of the code to control the mini servo. It still needs to be mo
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+The next steps required for this project to be completed by the week 12 deadline include: 
+. obtaining the final materials from a hardware store so that commencment of the final project can take place. 
+. building the final project and modifying certain sections to ensure that the platform can hold the bottle safetly whilst still effectively being able to turn. 
+. continuing to work on the code to ensure that all results are achieved in the end. 
+. putting all of the final code together into one section so that when the project is tested, all of the outputs occur at the same time.
+. testing the product. 
+. presenting the final product. 
