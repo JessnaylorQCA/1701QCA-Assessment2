@@ -32,10 +32,10 @@ This project is related to mine because *insert reasons here*.
 *Include your design intent here. It should be about a 10 word phrase/sentence.*
 
 ### Design concept 1 ###
-![Image](dc1.png)
+![Image](dc11.png)
 
 ### Design concept 2 ###
-![Image](dc2.png)
+![Image](dc22.png)
 
 ### Final design concept ###
 ![Image](fdc.png)
